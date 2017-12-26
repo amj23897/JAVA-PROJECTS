@@ -1,2 +1,1 @@
-# JAVA-PROJECTS
-done during BTech. ICT 2015-2019
+JAVA PROJECTS done during BTech. ICT 2015-2019
